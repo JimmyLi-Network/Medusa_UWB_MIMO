@@ -1,0 +1,69 @@
+beg_ckt proj:
+beg_layout :
+  Units: m;
+  EgsUnits: UM;
+  Resolution: 2.5e-10 units;
+  EgsResolution: 0.001 egsunits;
+end_layout;
+beg_momMdl :
+Mesh:
+  Freq: 10;
+  Cd: 0.000942397024030041;
+  Wl: 0.0188479404806008;
+  Cpwl: 20;
+;
+NdefIA 7:
+  p 1: 0.0001075 0.0002925 0,
+  p 2: 0.0001075 0.0004425 0,
+  p 3: 0.000486966990047451 -8.69669900474514e-05 0,
+  p 4: 0.00054 0.000875 0,
+  p 5: 0.0009725 -0.0005725 0,
+  p 6: 0.0009725 0.0003675 0,
+  p 7: 0.0009725 0.0013075 0;
+EdefIA 10:
+  s 1: 1 2, s 2: 1 3, s 3: 2 4, s 4: 2 6, s 5: 3 5,
+  s 6: 3 6, s 7: 4 6, s 8: 4 7, s 9: 5 6, s 10: 6 7;
+CdefIA 4:
+  c 1: -8 7 10, c 2: -7 -3 4, c 3: -6 5 9,
+  c 4: -4 -1 2 6;
+beg_Xinfo :
+beg_layer /1:
+  Mask: 44;
+  Type: metal;
+  Level: 0;
+  Plane: z = 0;
+  Fill: conductivity 58000000 0 permeability 1 0 thickness 3.5e-05 M precedence 0;
+  Cd: 0.000942397024030041;
+  Tml: 0;
+  StripModel: 3;
+  CrefRA 4 {
+  1 2 3 4 }
+end_layer /1;
+end_Xinfo;
+BdefIA 4:
+  b 1: -1 e 2 c 2, e 0 c 4;
+  b 2: -1 e 3 c 4, e 0 c 3;
+  b 3: -1 e 1 c 1, e 0 c 2;
+  b 4: e 1 c 4;
+;
+PdefRA 1 {
+GdefRA 1 Calibration : TML; RefShift : 0; RefImpedance 1 {50 0} {
+  Prt 1 : ErefRA 1 { 1 };
+}
+}
+#beg_properties:
+#  key "_cell_size" value "cpw 20/1" CrefRA 4 {
+#    1 2 3 4 };
+#  key "_edge_mesh" value "no" CrefRA 4 {
+#    1 2 3 4 };
+#  key "_ignored_strip_hole_size" value "0" CrefRA 4 {
+#    1 2 3 4 };
+#  key "_strip_model" value "3" CrefRA 4 {
+#    1 2 3 4 };
+#  key "_tml_mesh" value "no" CrefRA 4 {
+#    1 2 3 4 };
+#  key "net" value "P1" CrefRA 4 {
+#    1 2 3 4 };
+#end_properties;
+end_momMdl;
+end_ckt proj;

@@ -1,0 +1,14 @@
+\t (00:03:06) allegro 17.2 S004 Windows SPB 64-bit Edition
+\t (00:03:06)     Journal start - Mon May 08 19:41:40 2023
+\t (00:03:06)         Host=JIMMYWINVIRTUAL User=jimmy Pid=8748 CPUs=4
+\t (00:03:06) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:03:06) 
+\d (00:03:06) Design opened: Z:/Documents/UWB/X4_test-1127_PCB/X4_test-1127.brd
+\i (00:03:06) generaledit 
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -431.26 -222.66
+\t (00:03:08) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:03:08) trapsize 1017
+\i (00:03:45) exit 
+\t (00:03:45)     Journal end - Mon May 08 19:42:19 2023

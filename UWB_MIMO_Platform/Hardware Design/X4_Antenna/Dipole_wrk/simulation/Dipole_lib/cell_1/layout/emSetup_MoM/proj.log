@@ -1,0 +1,81 @@
+License checkout took 0.031 sec
+License checkout took 0.035 sec
+Momentum MomEngine_64 13.02.073 (*) built: Feb 20 2019
+Copyright  1992 - 2019 Keysight Technologies
+Simulation started on: Thu Jul  6 23:22:11 2023
+Simulation Mode: RF
+Substrate valid
+Automatically determined a snap distance of
+0.053 um for layout healing.
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Generating mesh at 10 GHz...
+S-parameter simulation
+S-parameter simulation started
+...initializing
+...extracting layout
+...expanding thick conductors
+
+--- WARNING -------------------------------------------------------------------
+
+Layout is electrically large above 72.4 GHz (space wave radiation)
+
+-------------------------------------------------------------------------------
+
+--- WARNING -------------------------------------------------------------------
+
+Substrate is electrically large above 9.33 GHz (surface wave radiation)
+RF simulation can be less accurate as it ignores radiation
+Consider:  - lowering the maximum frequency
+           - simulating in MW mode
+
+-------------------------------------------------------------------------------
+...reducing mesh
+Automatic selection: direct dense matrix solver
+Using multi-threading (4 threads)
+Matrix size: 39 (reduced: 29)
+
+--- WARNING -------------------------------------------------------------------
+
+Port 1 does not have an explicit reference pin, 
+S-parameters may become unphysical at higher frequencies.
+
+-------------------------------------------------------------------------------
+Simulation temperature: 298.15 K
+Adaptive frequency sweep started
+Simulation frequency [1] = 1 GHz
+...loading Green functions
+...creating Basis sections
+...allocating interaction matrix
+...loading quasi-static matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [2] = 10 GHz
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+...calculating S-parameters
+Adaptive:   0.0 % of frequency range covered
+Simulation frequency [3] = 7 GHz
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [4] = 4 GHz
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [5] = 9 GHz
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+...calculating S-parameters
+Adaptive: 100.0 % of frequency range covered
+S-parameter simulation finished
+Simulation finished on: Thu Jul  6 23:22:13 2023
+The simulation results have been saved in dataset "cell_1_MomRF".

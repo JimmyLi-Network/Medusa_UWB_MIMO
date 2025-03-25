@@ -1,0 +1,43 @@
+\t (00:00:55) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:55)     Journal start - Thu Oct 20 23:18:43 2022
+\t (00:00:55)         Host=001C42082187 User=Magic Pid=2304 CPUs=4
+\t (00:00:55) 
+\t (00:00:57) Opening existing design...
+\d (00:00:57) Database opened: Y:/Documents/UWB/X4_test交货文件/客户文件/X4_test-1127_PCB/X4_test-1127.brd
+\t (00:00:58) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:58) trapsize 1876
+\i (00:00:58) trapsize 1842
+\i (00:00:58) trapsize 1882
+\i (00:00:59) trapsize 1644
+\i (00:00:59) trapsize 1914
+\i (00:01:00) generaledit 
+\i (00:01:57) pick grid 466.25 812.69
+\t (00:01:57) last pick:  466.00  813.00
+\i (00:02:03) zoom fit 
+\t (00:02:03) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:02:03) trapsize 323
+\i (00:02:07) prepopup 717.80 293.98
+\i (00:02:08) pick grid 710.69 294.62
+\t (00:02:08) last pick:  711.00  295.00
+\i (00:02:08) pick grid dbl 710.69 294.62
+\t (00:02:08) last pick:  711.00  295.00
+\i (00:02:10) pick grid 710.69 294.62
+\t (00:02:10) last pick:  711.00  295.00
+\i (00:02:10) pick grid dbl 710.69 294.62
+\t (00:02:10) last pick:  711.00  295.00
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 914.81 375.36
+\t (00:02:12) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:02:12) trapsize 646
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 914.81 375.37
+\i (00:02:12) trapsize 1292
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 520.16 352.54
+\t (00:02:13) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:02:13) trapsize 2329
+\i (00:02:15) exit 
+\t (00:02:15)     Journal end - Thu Oct 20 23:20:03 2022

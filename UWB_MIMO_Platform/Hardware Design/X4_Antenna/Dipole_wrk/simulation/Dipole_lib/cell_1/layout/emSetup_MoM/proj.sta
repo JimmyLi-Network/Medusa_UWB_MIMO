@@ -1,0 +1,97 @@
+==============================================================================
+
+                  ------ MOMENTUM STATISTICS (RF mode) ------
+
+              Momentum MomEngine_64 13.02.073 (*) built: Feb 20 2019
+                           Thu Jul  6 23:22:11 2023
+
+==============================================================================
+
+
+------------------------------------------------------------------------------
+MESH
+------------------------------------------------------------------------------
+ Frequency          : 10 GHz
+
+ Rectangular cells  : 0
+ Quadrangular cells : 1
+ Triangular cells   : 3
+ Via cells          : 0
+
+ Edge currents      : 4
+
+------------------------------------------------------------------------------
+SOLVER                        USER TIME      ELAPSED TIME      MEMORY         
+PROCESSES                      (h:m:s)          (h:m:s)         (MB)          
+------------------------------------------------------------------------------
+
+SIMULATION SET-UP
+-----------------
+ Initialization           |     0: 0: 0   |     0: 0: 0   |     27.79   
+ Ports analysis           |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Mesh processing          |     0: 0: 0   |     0: 0: 0   |      2.82   
+
+ Matrix size : 39
+ Reduced matrix size : 29
+ Estimated process size is below 256.00 MB
+
+ Simulation temperature : 298.15 K
+
+1. SIMULATION FREQUENCY = 1 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.56   
+ Basis creation           |     0: 0: 0   |     0: 0: 0   |      1.17   
+
+QUASI-STATIC CALCULATIONS
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      6.04   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      1.34   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+2. SIMULATION FREQUENCY = 10 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+3. SIMULATION FREQUENCY = 7 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 0   |     0: 0: 1   |      0.00   
+
+4. SIMULATION FREQUENCY = 4 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+5. SIMULATION FREQUENCY = 9 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+------------------------------------------------------------------------------
+TOTALS
+------------------------------------------------------------------------------
+ Nr of Frequencies   : 5 
+
+ Physical memory :    39.71 MB
+ Virtual memory  :    31.69 MB
+ Page faults     :       13290
+ User Time       :    0h 0m 0s
+ Elapsed Time    :    0h 0m 2s
+
+==============================================================================
+

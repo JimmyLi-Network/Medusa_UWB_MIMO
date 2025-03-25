@@ -1,0 +1,50 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  //mac/Home/Documents/UWB/X4_Antenna/Dipole_wrk/simulation/Dipole_lib/cell_1/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __SubstrateLayer1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Material cond     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object __SubstrateLayer1_2     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object cond_3     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  80  
+  Object __SubstrateLayer1_2 1  0  80  
+  Object cond_3 1  0  50  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position     6.9901118164062500e+03     -2.6022341308593750e+03      3.4693300781250000e+03  
+  Target     5.4000000000000000e+02      3.6750000000000000e+02      8.0250000000000000e+02  
+  Up    -1.9529415667057037e-01      3.8561087846755981e-01      9.0175628662109375e-01  
+      3.0340800781250000e+03      3.0340800781250000e+03  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Bottom_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

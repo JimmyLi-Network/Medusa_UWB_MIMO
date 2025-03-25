@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VDD3V Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=QSPI_SCLK/SPI_SCLK Pin=J1-5
+Removed Pin From Net: NetName=IO5_LVDS_N Pin=J1-6
+Removed Pin From Net: NetName=QSPI_IO0/SPI_MOSI Pin=J1-7
+Removed Pin From Net: NetName=IO6_LVDS_P Pin=J1-8
+Removed Pin From Net: NetName=QSPI_IO1/SPI_MISO Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=QSPI_NSS/SPI_NSS Pin=J1-13
+Removed Pin From Net: NetName=QSPI_IO2 Pin=J1-15
+Removed Pin From Net: NetName=X4_ENABLE Pin=J1-16
+Removed Pin From Net: NetName=QSPI_IO3 Pin=J1-17
+Removed Pin From Net: NetName=X4_IO1 Pin=J1-19
+Removed Pin From Net: NetName=X4_IO2 Pin=J1-20
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Header 10X2 New DesignItemId=Header 9X2A
+Change Component Footprint: Designator=J1 Old Footprint=HDR2X10 New Footprint=HDR2X9_CEN
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=QSPI_SCLK/SPI_SCLK Pin=J1-3
+Added Pin To Net: NetName=QSPI_IO0/SPI_MOSI Pin=J1-4
+Added Pin To Net: NetName=QSPI_IO2 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=X4_IO1 Pin=J1-7
+Added Pin To Net: NetName=X4_IO2 Pin=J1-8
+Added Pin To Net: NetName=X4_ENABLE Pin=J1-9
+Added Pin To Net: NetName=VDD3V Pin=J1-10
+Added Pin To Net: NetName=QSPI_NSS/SPI_NSS Pin=J1-12
+Added Pin To Net: NetName=QSPI_IO1/SPI_MISO Pin=J1-13
+Added Pin To Net: NetName=QSPI_IO3 Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=IO6_LVDS_P Pin=J1-16
+Added Pin To Net: NetName=IO5_LVDS_N Pin=J1-17
+Added Pin To Net: NetName=GND Pin=J1-18

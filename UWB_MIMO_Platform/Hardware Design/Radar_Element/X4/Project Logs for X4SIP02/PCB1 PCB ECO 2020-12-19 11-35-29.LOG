@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=QSPI_SCLK/SPI_SCLK Pin=J1-3
+Removed Pin From Net: NetName=X4_IO1 Pin=J1-7
+Removed Pin From Net: NetName=QSPI_NSS/SPI_NSS Pin=J1-12
+Removed Pin From Net: NetName=QSPI_IO3 Pin=J1-14
+Added Pin To Net: NetName=X4_IO1 Pin=J1-3
+Added Pin To Net: NetName=QSPI_SCLK/SPI_SCLK Pin=J1-12
+Added Pin To Net: NetName=QSPI_NSS/SPI_NSS Pin=J1-14

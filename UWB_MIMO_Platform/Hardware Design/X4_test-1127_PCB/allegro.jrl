@@ -1,0 +1,19 @@
+\t (00:00:24) allegro 17.2 S004 Windows SPB 64-bit Edition
+\t (00:00:24)     Journal start - Thu Jun 01 11:15:18 2023
+\t (00:00:24)         Host=JIMMYWINVIRTUAL User=jimmy Pid=5440 CPUs=4
+\t (00:00:24) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:24) 
+   (00:00:24) Loading axlcore.cxt 
+\t (00:00:25) Starting new design...
+\i (00:00:26) trapsize 669
+\i (00:00:26) trapsize 684
+\i (00:00:26) trapsize 689
+\i (00:00:26) trapsize 978
+\i (00:00:26) generaledit 
+\i (00:00:30) open 
+\i (00:00:47) fillin "Y:\Spectile_sensor\ZYNQ7020_AD9361_4.20\XC7Z020-AD9361_04201406.brd"
+\i (00:00:47) cd "Y:\Spectile_sensor\ZYNQ7020_AD9361_4.20"
+\t (00:00:47) Opening existing design...
+\i (00:00:50) fillin yes 
+\i (00:00:50) trapsize 102398
+\t (00:00:50)     Journal end - Thu Jun 01 11:15:45 2023

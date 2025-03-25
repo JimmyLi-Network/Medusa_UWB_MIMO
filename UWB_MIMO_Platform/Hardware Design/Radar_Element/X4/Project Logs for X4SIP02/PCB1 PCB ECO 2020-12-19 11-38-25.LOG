@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IO6_LVDS_P Pin=J1-8
+Removed Pin From Net: NetName=IO5_LVDS_N Pin=J1-17
+Added Pin To Net: NetName=IO5_LVDS_N Pin=J1-8
+Added Pin To Net: NetName=IO6_LVDS_P Pin=J1-17

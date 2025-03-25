@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=X4_IO2 Pin=J1-8
+Removed Pin From Net: NetName=IO6_LVDS_P Pin=J1-16
+Added Pin To Net: NetName=X4_IO2 Pin=J1-7
+Added Pin To Net: NetName=IO6_LVDS_P Pin=J1-8
+Added Pin To Net: NetName=QSPI_IO3 Pin=J1-16

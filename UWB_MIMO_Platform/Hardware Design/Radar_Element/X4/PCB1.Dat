@@ -1,0 +1,13 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~X4SIP02.PrjPcb|ReportField=ProjectFullPath~C:\Users\jimmy\Dropbox\NECLabs\X4\X4\X4SIP02.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~16|ReportField=ReportTime~12:35:09 PM|ReportField=ReportDate~1/5/2021|ReportField=ReportDateTime~1/5/2021 12:35:09 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=PCB_Classification~Public|ReportField=PCB_Date~2018-03-19|ReportField=PCB_ItemNo~290047-004|ReportField=PCBA_Classification~Public|ReportField=PCBA_Date~2018-03-19|ReportField=PCBA_Description~X4 Radar Module - System in Package with only X4 and related components|ReportField=PCBA_ItemNo~280022-004|ReportField=PCBA_ProjectName~X4SIP02|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~C:\Users\jimmy\Dropbox\NECLabs\X4\X4\PCB1.PcbDoc
+4u7|CAPACITOR, 4u7, 0603, 10%, 10V, X5R|C100|0603-CAPACITOR-NONPOL|200128|1
+100n|CAPACITOR, 100n, 0402, 10%, 10V, X5R|C101|0402-CAPACITOR-NONPOL|200010|1
+10n|CAPACITOR, 10n, 0402, 10%, 25V, X7R|C102|0402-CAPACITOR-NONPOL|200005|1
+1n|CAPACITOR, 1n, 0402, 10%, 25V, X7R|C103|0402-CAPACITOR-NONPOL|200205|1
+100p|CAPACITOR, 100p, 0402, 20%, 50V, X7R|C104|0402-CAPACITOR-NONPOL|200107|1
+12p|CAPACITOR, 12p, 0402, 5%, 50V, NP0|C105, C106|0402-CAPACITOR-NONPOL|200239|2
+2.54mm???|Header, 9-Pin, Dual row|J1|HDR2X9_CEN|Header 9X2A|1
+SMA|Header, 5-Pin|P1, P2, P3, P4|SMD3|Header 5|4
+10k|RESISTOR, 10k, 0402, 1%, 63mW|R100|0402-RESISTOR|200026|1
+100k|RESISTOR, 100k, 0402, 1%, 63mW|R101|0402-RESISTOR|200027|1
+XeThru X4|XeThru X4|U100|200106-002|200260-002|1
+27MHz|LFXTAL072115, CRYSTAL 27MHZ, 10PF, SMD|Y100|200281|200281|1

@@ -1,0 +1,123 @@
+Added Pin To Net: NetName=GND Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C106-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=U100-A1
+Added Pin To Net: NetName=GND Pin=U100-A2
+Added Pin To Net: NetName=GND Pin=U100-A8
+Added Pin To Net: NetName=GND Pin=U100-B3
+Added Pin To Net: NetName=GND Pin=U100-B5
+Added Pin To Net: NetName=GND Pin=U100-B6
+Added Pin To Net: NetName=GND Pin=U100-B7
+Added Pin To Net: NetName=GND Pin=U100-C3
+Added Pin To Net: NetName=GND Pin=U100-C5
+Added Pin To Net: NetName=GND Pin=U100-C7
+Added Pin To Net: NetName=GND Pin=U100-D1
+Added Pin To Net: NetName=GND Pin=U100-D5
+Added Pin To Net: NetName=GND Pin=U100-D8
+Added Pin To Net: NetName=GND Pin=U100-E3
+Added Pin To Net: NetName=GND Pin=U100-E6
+Added Pin To Net: NetName=GND Pin=Y100-2
+Added Pin To Net: NetName=GND Pin=Y100-4
+Added Net: Name=GND
+Added Pin To Net: NetName=IO5_LVDS_N Pin=J1-6
+Added Pin To Net: NetName=IO5_LVDS_N Pin=U100-F6
+Added Net: Name=IO5_LVDS_N
+Added Pin To Net: NetName=IO6_LVDS_P Pin=J1-8
+Added Pin To Net: NetName=IO6_LVDS_P Pin=U100-F7
+Added Net: Name=IO6_LVDS_P
+Added Pin To Net: NetName=QSPI_IO0/SPI_MOSI Pin=J1-7
+Added Pin To Net: NetName=QSPI_IO0/SPI_MOSI Pin=U100-F2
+Added Net: Name=QSPI_IO0/SPI_MOSI
+Added Pin To Net: NetName=QSPI_IO1/SPI_MISO Pin=J1-9
+Added Pin To Net: NetName=QSPI_IO1/SPI_MISO Pin=R100-1
+Added Pin To Net: NetName=QSPI_IO1/SPI_MISO Pin=U100-F3
+Added Net: Name=QSPI_IO1/SPI_MISO
+Added Pin To Net: NetName=QSPI_IO2 Pin=J1-15
+Added Pin To Net: NetName=QSPI_IO2 Pin=U100-F4
+Added Net: Name=QSPI_IO2
+Added Pin To Net: NetName=QSPI_IO3 Pin=J1-17
+Added Pin To Net: NetName=QSPI_IO3 Pin=U100-F5
+Added Net: Name=QSPI_IO3
+Added Pin To Net: NetName=QSPI_NSS/SPI_NSS Pin=J1-13
+Added Pin To Net: NetName=QSPI_NSS/SPI_NSS Pin=U100-E2
+Added Net: Name=QSPI_NSS/SPI_NSS
+Added Pin To Net: NetName=QSPI_SCLK/SPI_SCLK Pin=J1-5
+Added Pin To Net: NetName=QSPI_SCLK/SPI_SCLK Pin=U100-F1
+Added Net: Name=QSPI_SCLK/SPI_SCLK
+Added Pin To Net: NetName=RFIN_N Pin=P4-1
+Added Pin To Net: NetName=RFIN_N Pin=U100-C1
+Added Net: Name=RFIN_N
+Added Pin To Net: NetName=RFIN_P Pin=P3-1
+Added Pin To Net: NetName=RFIN_P Pin=U100-B1
+Added Net: Name=RFIN_P
+Added Pin To Net: NetName=RFOUT_N Pin=P2-1
+Added Pin To Net: NetName=RFOUT_N Pin=U100-C8
+Added Net: Name=RFOUT_N
+Added Pin To Net: NetName=RFOUT_P Pin=P1-1
+Added Pin To Net: NetName=RFOUT_P Pin=U100-B8
+Added Net: Name=RFOUT_P
+Added Pin To Net: NetName=VDD3V Pin=C100-1
+Added Pin To Net: NetName=VDD3V Pin=C101-1
+Added Pin To Net: NetName=VDD3V Pin=C102-1
+Added Pin To Net: NetName=VDD3V Pin=C103-1
+Added Pin To Net: NetName=VDD3V Pin=C104-1
+Added Pin To Net: NetName=VDD3V Pin=J1-1
+Added Pin To Net: NetName=VDD3V Pin=R100-2
+Added Pin To Net: NetName=VDD3V Pin=R101-2
+Added Pin To Net: NetName=VDD3V Pin=U100-A3
+Added Pin To Net: NetName=VDD3V Pin=U100-A7
+Added Pin To Net: NetName=VDD3V Pin=U100-C6
+Added Pin To Net: NetName=VDD3V Pin=U100-D6
+Added Pin To Net: NetName=VDD3V Pin=U100-D7
+Added Pin To Net: NetName=VDD3V Pin=U100-E4
+Added Pin To Net: NetName=VDD3V Pin=U100-E7
+Added Net: Name=VDD3V
+Added Pin To Net: NetName=X4_ENABLE Pin=J1-16
+Added Pin To Net: NetName=X4_ENABLE Pin=R101-1
+Added Pin To Net: NetName=X4_ENABLE Pin=U100-E5
+Added Net: Name=X4_ENABLE
+Added Pin To Net: NetName=X4_GPIO1 Pin=J1-10
+Added Net: Name=X4_GPIO1
+Added Pin To Net: NetName=X4_GPIO2 Pin=J1-18
+Added Net: Name=X4_GPIO2
+Added Pin To Net: NetName=X4_GPIO4 Pin=J1-14
+Added Net: Name=X4_GPIO4
+Added Pin To Net: NetName=X4_IO1 Pin=J1-19
+Added Pin To Net: NetName=X4_IO1 Pin=U100-E1
+Added Net: Name=X4_IO1
+Added Pin To Net: NetName=X4_IO2 Pin=J1-20
+Added Pin To Net: NetName=X4_IO2 Pin=U100-D3
+Added Net: Name=X4_IO2
+Added Pin To Net: NetName=XIN27 Pin=C105-1
+Added Pin To Net: NetName=XIN27 Pin=U100-F8
+Added Pin To Net: NetName=XIN27 Pin=Y100-1
+Added Net: Name=XIN27
+Added Pin To Net: NetName=XOUT27 Pin=C106-1
+Added Pin To Net: NetName=XOUT27 Pin=U100-E8
+Added Pin To Net: NetName=XOUT27 Pin=Y100-3
+Added Net: Name=XOUT27
